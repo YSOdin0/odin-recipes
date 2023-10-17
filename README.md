@@ -1,0 +1,1 @@
+This project is a practice exercise for basic git workflow and basic html.
