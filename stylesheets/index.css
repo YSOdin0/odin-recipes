@@ -1,3 +1,10 @@
-* {
-    color: red;
+.title {
+    text-align: center;
+}
+.listContainer {
+    text-align: center;
+}
+.recipes {
+    display: inline-block;
+    text-align: center;
 }
